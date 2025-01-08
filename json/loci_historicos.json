@@ -1,0 +1,66 @@
+{
+    "1": {
+        "nombre": "El Cielo",
+        "personaje": "Leonardo Da Vinci"
+    },
+    "2": {
+        "nombre": "La Tierra",
+        "personaje": "Isaac Newton"
+    },
+    "3": {
+        "nombre": "Dificultad Inicial",
+        "personaje": "Arquímedes"
+    },
+    "4": {
+        "nombre": "Juventud",
+        "personaje": "Sócrates"
+    },
+    "5": {
+        "nombre": "La Espera",
+        "personaje": "Nikola Tesla"
+    },
+    "6": {
+        "nombre": "Conflicto",
+        "personaje": "Alejandro Magno"
+    },
+    "7": {
+        "nombre": "El Ejército",
+        "personaje": "Julio César"
+    },
+    "8": {
+        "nombre": "Solidaridad",
+        "personaje": "Jesús de Nazaret"
+    },
+    "9": {
+        "nombre": "La Pequeña Fuerza",
+        "personaje": "Miguel Ángel"
+    },
+    "10": {
+        "nombre": "El Porte",
+        "personaje": "Confucio"
+    },
+    "11": {
+        "nombre": "La Paz",
+        "personaje": "Buda"
+    },
+    "12": {
+        "nombre": "El Estancamiento",
+        "personaje": "René Descartes"
+    },
+    "13": {
+        "nombre": "La Comunidad con los Hombres",
+        "personaje": "Moisés"
+    },
+    "14": {
+        "nombre": "La Gran Posesión",
+        "personaje": "Albert Einstein"
+    },
+    "15": {
+        "nombre": "La Modestia",
+        "personaje": "San Francisco de Asís"
+    },
+    "16": {
+        "nombre": "El Entusiasmo",
+        "personaje": "Thomas Edison"
+    }
+}
